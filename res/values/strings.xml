@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">checkoutcrypto</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome">CheckoutCrypto Android Client</string>
+       <string name="enterkey">Please enter your checkout crypto API key</string>
+       <string name="pref_yourapp">Please enter your Application Name</string>
+       
+</resources>
